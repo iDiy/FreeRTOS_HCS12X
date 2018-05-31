@@ -1,2 +1,4 @@
 # FreeRTOS_HCS12X
 FreeRTOS_HCS12X
+
+FreeRTOS 基于 NXP 16位 MCU `mc9s12xep100`的移植
